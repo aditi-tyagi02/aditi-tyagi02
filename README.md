@@ -1,5 +1,5 @@
 #  About Me:
- Hi there! I'm <strong> Aditi Tyagi </strong>, a pre-final year  <strong> B.Tech </strong> student majoring in  <strong>CSE AIML</strong>  .<br><br>💻 I'm a <strong>Full-stack web developer</strong>  working on multiple projects.<br><br>🔍 Driven by logic and fueled by curiosity, you'll often find me lost in the pages of a book or diving into the depths of the internet in search of the most obscure topics imaginable to mankind.<br><br> ✍️ You can read out my articles <a href="https://auth.geeksforgeeks.org/user/bytebarde55/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user">here.</a>
+ Hi there! I'm <strong> Aditi Tyagi </strong>, a final year  <strong> B.Tech </strong> student majoring in  <strong>CSE AIML</strong>  .<br><br>💻 I'm a <strong>Full-stack web developer</strong>  working on multiple projects.<br><br>🔍 Driven by logic and fueled by curiosity, you'll often find me lost in the pages of a book or diving into the depths of the internet in search of the most obscure topics imaginable to mankind.<br><br> ✍️ You can read out my articles <a href="https://auth.geeksforgeeks.org/user/bytebarde55/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user">here.</a>
 
 
 
